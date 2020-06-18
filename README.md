@@ -1,4 +1,8 @@
 # Optimization-Model
+An example of how to build an Optimization Model for a business problem with implementation in SciPy
+
+
+![Screenshot](image.JPG)
 
 A restaurant prepares salad dishes. Two of these salads are Greek salad and Italian salad. Greek salad earns a profit of $5 per unit and Italian salad earns $8 per unit. Three major resources are utilized in the production process: vegetable, labor, and cutting time. It takes 1/2 lbs of vegetables to make a Greek salad, and 1/3 lbs to make a Italian salad. Greek salad requires 1 labor; Italian salad requires 1 labor. It takes 1/4 hr cutting time per Greek salad, and 1/5 hr per Italian salad. For the current planning period, 500 lbs vegetable, 800 hour labor, and 400 hour cutting time are available. The restaurant would like to maximize profit during the current planning period, within allowable resources.
 
